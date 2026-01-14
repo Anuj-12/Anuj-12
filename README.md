@@ -8,6 +8,9 @@
 
 
 ## 🌱 I’m currently learning
+- Pandas with python
+- Bare Metal prgramming with STM32
+- Advanced Java
 
 <!--
 **Anuj-12/Anuj-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
