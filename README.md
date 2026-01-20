@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on
 - Java chat application with toggle mode for encryption
-- A remote controlled amphibious car using ESP-NOW
+- A remote controlled sandrover using ESP-NOW
 - IoT conference paper for traffic management
 - STM32 driver development
 
