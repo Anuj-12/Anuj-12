@@ -1,16 +1,18 @@
 Hi, I’m Anuj Tejas, I work on embedded systems and low-level firmware using STM32 (bare-metal / CMSIS).  
 Currently building a Bluetooth-controlled rover and exploring real-time embedded systems.
 
-🔧 Current Work
+ Current Work
 - Bare-metal STM32 development (no HAL)
 - Timer, PWM, and interrupt-based systems
 - Building a Bluetooth-controlled rover (in progress)
 
-🚀 Projects
+Projects
 - STM32 Peripheral Drivers (GPIO, UART, ADC, Timers)
 - PWM Driver using TIM2 (4 kHz, preload enabled)
 - Bluetooth-Controlled Rover (in progress)
 - RS485-based NPK Sensor Interface
+
+My techstack includes Embedded C, STM32 (CMSIS, Baremetal), and STM32CubeIDE. I have familiarity with communication protocols like MQTT, RS485, Modbus, and basics of BLE.
 
 I prefer understanding systems at a low level rather than relying on abstraction layers.  
 A lot of my work is built from scratch to understand how hardware actually works.
