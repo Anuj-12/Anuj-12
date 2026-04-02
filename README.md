@@ -1,5 +1,4 @@
-Hi, I’m Anuj Tejas
-I work on embedded systems and low-level firmware using STM32 (bare-metal / CMSIS).  
+Hi, I’m Anuj Tejas, I work on embedded systems and low-level firmware using STM32 (bare-metal / CMSIS).  
 Currently building a Bluetooth-controlled rover and exploring real-time embedded systems.
 
 🔧 Current Work
