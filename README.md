@@ -13,8 +13,8 @@ Currently building a Bluetooth-controlled rover and exploring real-time embedded
 - Bluetooth-Controlled Rover (in progress)
 - RS485-based NPK Sensor Interface
 
-📌 Focus
-I prefer understanding systems at a low level rather than relying on abstraction layers.
+📌 Focus  
+I prefer understanding systems at a low level rather than relying on abstraction layers.  
 A lot of my work is built from scratch to understand how hardware actually works.
 <!--
 **Anuj-12/Anuj-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
