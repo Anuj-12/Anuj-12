@@ -6,12 +6,6 @@ Currently building a Bluetooth-controlled rover and exploring real-time embedded
 - Timer, PWM, and interrupt-based systems
 - Building a Bluetooth-controlled rover (in progress)
 
-Projects
-- STM32 Peripheral Drivers (GPIO, UART, ADC, Timers)
-- PWM Driver using TIM2 (4 kHz, preload enabled)
-- Bluetooth-Controlled Rover (in progress)
-- RS485-based NPK Sensor Interface
-
 My techstack includes Embedded C, STM32 (CMSIS, Baremetal), and STM32CubeIDE. I have familiarity with communication protocols like MQTT, RS485, Modbus, and basics of BLE.
 
 I prefer understanding systems at a low level rather than relying on abstraction layers.  
