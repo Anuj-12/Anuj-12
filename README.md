@@ -13,7 +13,6 @@ Currently building a Bluetooth-controlled rover and exploring real-time embedded
 - Bluetooth-Controlled Rover (in progress)
 - RS485-based NPK Sensor Interface
 
-📌 Focus  
 I prefer understanding systems at a low level rather than relying on abstraction layers.  
 A lot of my work is built from scratch to understand how hardware actually works.
 <!--
