@@ -6,8 +6,8 @@ Current Work
 - Building a remotely controlled STM32-based rover from scratch (in progress)
 - Developing Shura, a local-first AI voice assistant
 
-Technologies I work with include Embedded C, STM32 (CMSIS, Bare-metal), and STM32CubeIDE
-I am familiar with communication protocols such as MQTT, RS485, SPI, I2C, Modbus, and BLE
+Technologies I work with include Embedded C, STM32 (CMSIS, Bare-metal), and STM32CubeIDE.
+Comfortable implementing communication stacks including SPI, I²C, UART, RS485 (Modbus), BLE, and MQTT.
 
 I enjoy building systems from first principles whenever practical. Many of my projects are developed from scratch because I learn best by understanding how hardware and software interact at the lowest practical level.
 <!--
