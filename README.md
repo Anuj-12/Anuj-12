@@ -4,7 +4,7 @@ Current Work
 - Bare-metal STM32 development (no HAL)
 - Timer, PWM, and interrupt-based systems
 - Building a remotely controlled STM32-based rover from scratch (in progress)
-- Developing Shura, a local-first voice AI assistant
+- Developing Shura, a local-first AI voice assistant
 
 Technologies I work with include Embedded C, STM32 (CMSIS, Bare-metal), and STM32CubeIDE
 I am familiar with communication protocols such as MQTT, RS485, SPI, I2C, Modbus, and BLE
