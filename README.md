@@ -3,7 +3,7 @@ Hi, I'm Anuj Tejas. I enjoy building embedded systems from the ground up, with a
 Current Work
 - Bare-metal STM32 development (no HAL)
 - Timer, PWM, and interrupt-based systems
-- Building a remotely controlled STM32-based rover from scratch (in progress)
+- Building a remotely controlled STM32-based rover from scratch
 - Developing Shura, a local-first AI voice assistant
 
 Technologies I work with include Embedded C, STM32 (CMSIS, Bare-metal), and STM32CubeIDE.
