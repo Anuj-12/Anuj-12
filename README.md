@@ -1,4 +1,4 @@
-Hi, I'm Anuj Tejas. I enjoy building embedded systems from the ground up, with a focus on bare-metal STM32 development, firmware, and understanding how hardware works beneath the abstractions. I'm currently exploring firmware architecture, embedded systems, and robotics while working toward a career in low-level systems engineering.
+Hi, I'm Anuj Tejas. I enjoy building embedded systems from the ground up, with a focus on bare-metal STM32 development, firmware, and understanding how hardware works beneath the abstractions. I'm an embedded systems engineer focused on bare-metal STM32 firmware and low-level software. Currently building the foundation for robotics and Edge AI systems through embedded development.
 
 Current Work
 - Bare-metal STM32 development (no HAL)
